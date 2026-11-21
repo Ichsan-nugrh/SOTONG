@@ -1,0 +1,9 @@
+.git
+.gitignore
+.gitattributes
+__pycache__
+*.pyc
+.streamlit/secrets.toml
+sotong_chat.db
+data/
+.DS_Store

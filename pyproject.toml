@@ -1,5 +1,5 @@
 [project]
-name = "blank-app-template"
+name = "sotong"
 version = "0.1.0"
 description = "A simple Streamlit app template."
 readme = "README.md"

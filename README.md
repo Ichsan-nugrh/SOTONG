@@ -1,25 +1,8 @@
-# 🎈 Blank app template
+## DISCLAIMER MEDIS
 
-A simple Streamlit app template for you to modify!
+**PENTING: APLIKASI INI DIBUAT UNTUK TUJUAN AKADEMIS DAN PENELITIAN.**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-Prerequisite: install `uv` if you don't already have it.
-
-```
-$ curl -LsSf https://astral.sh/uv/install.sh | sh
-```
-
-1. Sync the dependencies
-
-   ```
-   $ uv sync
-   ```
-
-2. Run the app
-
-   ```
-   $ uv run streamlit run streamlit_app.py
-   ```
+1. **Bukan Alat Diagnosis**: SOTONG (Sistem Observasi Tumor Otak dan Neural Geometri) adalah proyek akademis (tugas akhir) yang dikembangkan oleh mahasiswa. Aplikasi ini **BUKAN** perangkat medis yang disetujui oleh otoritas kesehatan (seperti Kemenkes, BPOM, atau FDA).
+2. **Keterbatasan AI**: Meskipun model Deep Learning (TensorFlow & PyTorch) telah dilatih, AI dan model bahasa (LLM) dapat membuat kesalahan. Hasil klasifikasi, segmentasi, dan penjelasan chatbot tidak boleh dijadikan sebagai dasar pengambilan keputusan medis.
+3. **Catatan Developer**: Pada waktu awal pengembangan AI SOTONG, hanya kami (kelompok developer) dan Tuhan yang tahu bagaimana program ini bekerja. Setelah ratusan error, sekarang hanya Tuhan yang tahu bagaimana program ini bekerja.
+4. 

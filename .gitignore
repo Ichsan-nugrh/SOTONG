@@ -1,5 +1,14 @@
 .streamlit/secrets.toml
 
+# Database lokal
+sotong_chat.db
+*.db
+*.sqlite3
+
+# File OS (Mac/Windows)
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
