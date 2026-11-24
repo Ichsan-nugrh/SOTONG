@@ -1,4 +1,5 @@
 import os
+import tempfile
 import base64
 import sqlite3
 import json
@@ -13,7 +14,7 @@ from openai import OpenAI
 import streamlit as st
 
 # KONFIGURASI
-DB_NAME = "data/sotong_chat.db"
+DB_NAME = os.path.join(tempfile.gettempdir(), "sotong_chat.db")
 IMG_SIZES = {'effv2s': 288, 'convnext': 224}
 CONFIDENCE_THRESHOLD = 0.65 
 
