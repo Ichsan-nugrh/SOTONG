@@ -22,7 +22,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("🧠 SOTONG AI")
-st.subheader("Asisten Observasi Tumor Otak dan Neural Geometri")
+st.subheader("Sistem Observasi Tumor Otak dan Neural Geometri")
 st.info("ℹ️ DISCLAIMER : SOTONG adalah proyek akademis, bukan alat diagnosis resmi")
 
 # 2. INISIALISASI DATABASE & API
